@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">YZM3214_2</string>
+    <string name="shared_prefs_key">name</string>
+</resources>
